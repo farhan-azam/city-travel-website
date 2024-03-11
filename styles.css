@@ -55,8 +55,8 @@ html{
 
 .container{
  
-  margin: 20px;
-  border-radius: 20px;
+  margin: 25px;
+  border-radius: 25px;
   display: flex;
   flex-wrap: wrap;
   
